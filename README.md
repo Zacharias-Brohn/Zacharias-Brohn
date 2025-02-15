@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Discrete Maths and Physics.
+- 🔭 I’m currently working on Differential Calculus and OOP.
 - 🌱 I’m currently learning Computer Science.
 - 📫 How to reach me: zacbro-8@student.ltu.se
